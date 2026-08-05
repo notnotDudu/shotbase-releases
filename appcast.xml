@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shotbase</title>
+        <item>
+            <title>0.9.0</title>
+            <pubDate>Wed, 05 Aug 2026 19:40:13 +0300</pubDate>
+            <link>https://shotbase.com</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v0.9.0/Shotbase.dmg" length="299927387" type="application/octet-stream" sparkle:edSignature="PogA4fMarMxXO1ZvUgNlDz7Yd4nG5BqS0M/8cVsXpYejxEdAnctQ31/0VfyOHPyakt32ZmyWvh3whtaCfG52Aw=="/>
+        </item>
+    </channel>
+</rss>

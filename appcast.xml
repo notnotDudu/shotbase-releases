@@ -1,8 +1,18 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Shotbase</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 10 Aug 2026 14:13:37 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.1.0/Shotbase-update.zip" length="300545500" type="application/octet-stream" sparkle:edSignature="WDasNbrfhF7nFdrpRanaQ6yii0k1xUie7+TOJeyE4dnEMAKA8A16zZi+IqQtwsDSaMkGr0mahhH/RAJxpWipBw=="/>
+        </item>
         <item>
             <title>1.0.11</title>
             <pubDate>Thu, 06 Aug 2026 17:13:44 +0300</pubDate>
@@ -10,7 +20,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.0.11/Shotbase.dmg" length="299938431" type="application/octet-stream" sparkle:edSignature="anlKzWRPcmcpR61GxrrQcko0O5o1ETMQzhePcKXRVcXn3Sjltc7gRcdayXMrvGFf3kHmd1irZl+y+SYbXo5IDQ=="></enclosure>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.0.11/Shotbase.dmg" length="299938431" type="application/octet-stream" sparkle:edSignature="anlKzWRPcmcpR61GxrrQcko0O5o1ETMQzhePcKXRVcXn3Sjltc7gRcdayXMrvGFf3kHmd1irZl+y+SYbXo5IDQ=="/>
         </item>
         <item>
             <title>1.0.1</title>
@@ -19,7 +29,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.0.1/Shotbase.dmg" length="299930802" type="application/octet-stream" sparkle:edSignature="Yg1y0pYPF5mTb/T1eGDfdXP1ubwQ0XL6/w68tB5Ae/zyqzglImtg9QxCe/DZrZVPRIfeyc9O0nqJjMKUlGvvBQ=="></enclosure>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.0.1/Shotbase.dmg" length="299930802" type="application/octet-stream" sparkle:edSignature="Yg1y0pYPF5mTb/T1eGDfdXP1ubwQ0XL6/w68tB5Ae/zyqzglImtg9QxCe/DZrZVPRIfeyc9O0nqJjMKUlGvvBQ=="/>
         </item>
         <item>
             <title>1.0.0</title>
@@ -28,7 +38,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.0.0/Shotbase.dmg" length="299927502" type="application/octet-stream" sparkle:edSignature="oLmlCKGT2On5L3oYEY6dqgw/n5New0+ncrHPO0su+MJoiGeUqyCbZM6qEwhsyKkfDBUXDGVpg6sQxt8VZTrhCw=="></enclosure>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.0.0/Shotbase.dmg" length="299927502" type="application/octet-stream" sparkle:edSignature="oLmlCKGT2On5L3oYEY6dqgw/n5New0+ncrHPO0su+MJoiGeUqyCbZM6qEwhsyKkfDBUXDGVpg6sQxt8VZTrhCw=="/>
         </item>
         <item>
             <title>0.9.0</title>
@@ -37,11 +47,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v0.9.0/Shotbase.dmg" length="299927387" type="application/octet-stream" sparkle:edSignature="PogA4fMarMxXO1ZvUgNlDz7Yd4nG5BqS0M/8cVsXpYejxEdAnctQ31/0VfyOHPyakt32ZmyWvh3whtaCfG52Aw=="></enclosure>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v0.9.0/Shotbase.dmg" length="299927387" type="application/octet-stream" sparkle:edSignature="PogA4fMarMxXO1ZvUgNlDz7Yd4nG5BqS0M/8cVsXpYejxEdAnctQ31/0VfyOHPyakt32ZmyWvh3whtaCfG52Aw=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: KPDLEOVTKwk2ypVQZbmJjadfVSoZdZSnpJYR+EmNCKzg7JigaQL2EmzkLH6SpTDAeZy6KWtuDpXG+ZJJ5IQoCg==
-length: 3093
+edSignature: dXyEn3xpGGnG1byTCXkQkKE0ByDQi7kU8cuEXU51PKxRhD19J4wA7JQoSdi4j1mV8VZTrynHqHxNx4qlcY5fCw==
+length: 3666
 -->

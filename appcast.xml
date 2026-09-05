@@ -6,6 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Shotbase</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Sun, 06 Sep 2026 01:22:52 +0300</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.4.0/Shotbase-update.zip" length="301976146" type="application/octet-stream" sparkle:edSignature="iOM4WvTu2rrA39E6N8RATMvyuWfXE7EaJ1pH9JMkQZ4xVETsAreEYeIJ0IwDattA7+whJC2fPMXCpvPmij4uDA=="/>
+        </item>
+        <item>
             <title>1.3.4</title>
             <pubDate>Wed, 02 Sep 2026 17:01:13 +0300</pubDate>
             <sparkle:criticalUpdate sparkle:version="12"/>
@@ -101,6 +109,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /ZSYwM1JWn7lJ5mVESqkCMwfDqqlA5oKK243eLIoQ3Fgbf9mH8Ke3OFZ1Oxo4aQuQ2U5QgImVHLa/wRDpARkAw==
-length: 7418
+edSignature: a3j14LFqbfPAjWk3K4QQXowXCelbjTcX7g/vJRk7XFYjueRzxAjGVshsi7JUKhUIt/zUrtWlicnfy9BrXlzsBQ==
+length: 8034
 -->

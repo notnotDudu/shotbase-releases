@@ -8,6 +8,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <item>
             <title>1.4.0</title>
             <pubDate>Sun, 06 Sep 2026 01:22:52 +0300</pubDate>
+            <sparkle:criticalUpdate sparkle:version="12"/>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -109,6 +110,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: a3j14LFqbfPAjWk3K4QQXowXCelbjTcX7g/vJRk7XFYjueRzxAjGVshsi7JUKhUIt/zUrtWlicnfy9BrXlzsBQ==
-length: 8034
+edSignature: 2tN8l1KvyTcEPVCCvdxGKhT48JhJiGcKGiYYpVxQoSmCBSDtNy+0QyqwN2lww8xEUf2gOdQeWEhISfepCPG1CQ==
+length: 8093
 -->

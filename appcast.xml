@@ -3,6 +3,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Thu, 24 Sep 2026 00:35:39 +0300</pubDate>
+            <sparkle:criticalUpdate sparkle:version="12"></sparkle:criticalUpdate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.5.0/Shotbase-update.zip" length="157893721" type="application/octet-stream" sparkle:edSignature="VOv9Mw9XzRhSNYFpS2TJLxdpUtyh4TsypRu80bepkI/TREXSoQ8yz1OLi5t5hX6bHtA2p4GY0LG4vvxSELXiBA=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.5.0/Shotbase15-14.delta" sparkle:deltaFrom="14" length="24804198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nupoOsWEAKy/F9HJkxhY6DgoNjncVVRfdsrHA8XbkslgJ+PXa8r9KcG52BZ5dRAK9eD6Lz1922dzfYDQMy6uAg=="></enclosure>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.5.0/Shotbase15-13.delta" sparkle:deltaFrom="13" length="84614946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9nPEpuIHpnfTcNcMw7x3efAnFmuUQscK7BNK/cr56m27GL7xgetBzlRfyArd5UWsgU896Dlgwc9HUUIyLtmpAw=="></enclosure>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.5.0/Shotbase15-12.delta" sparkle:deltaFrom="12" length="84838402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FkhJKd1VR7OWyLDgZ7UP8OCJPqIFVLp46acok21XmQtacdZU9IfVZnY6VdWJ7hSDTGaYzrKsXfnDj9Tdc1/lBQ=="></enclosure>
+            </sparkle:deltas>
+        </item>
+    <item>
             <title>1.4.1</title>
             <pubDate>Sat, 12 Sep 2026 16:05:06 +0300</pubDate>
             <sparkle:criticalUpdate sparkle:version="12"></sparkle:criticalUpdate>
@@ -121,6 +135,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BAuYV7+Oo8gbphMb4QFXSk8Vp2AcVMVbFDM34Em4wcaumwx2mr9YeOd6lAz0aHi3LEKOJ42HI4vGaPfT03XvBA==
-length: 10330
+edSignature: DSxbyF/c65XYrTolswQLseAftY8mo2Hfy8TazXrs1DDv5x4e6w6FOK58aF6f4IkEdGo5N1UqRaA3S4dM65PrDg==
+length: 12373
 -->

@@ -3,6 +3,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Fri, 13 Nov 2026 01:56:53 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.8.0-build21/Shotbase-update.zip" length="164385339" type="application/octet-stream" sparkle:edSignature="SHyAFOCcd0bAiZHVhzBxG1M0zPwBkBQm4QrtbQqS3e0T5xTv6JHZ1Qyx5ViZ2SIVY1azqtRjlRy4C/WOuVk8DA=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.8.0-build21/Shotbase21-19.delta" sparkle:deltaFrom="19" length="9939826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TBypOxNh7vNzIp590FqfwG4YrzECVSntQQ8bsOffbJkox2PmSkwhhEQQ+PRMmeSeBtOdPOc0PHVzC9JwEiLkAQ=="></enclosure>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.8.0-build21/Shotbase21-18.delta" sparkle:deltaFrom="18" length="9941178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f0ocXfTDEfDaYBtReb1N1I0NekVblkOMu86lhq97hyKfF+ZydP5q06LDnQNEXBgP/uIiKIFi2s/uzKSAZf/2Cg=="></enclosure>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.8.0-build21/Shotbase21-17.delta" sparkle:deltaFrom="17" length="14198950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VqvCqQq4244c0jePfu8jdQvaKjnEgacNC4bmyrs6UYxHOHqwPNB+P5gV3aaLAMJuJdgxGWWwxEOhuCo8Qms0Aw=="></enclosure>
+            </sparkle:deltas>
+        </item>
+    <item>
             <title>1.7.1</title>
             <pubDate>Mon, 02 Nov 2026 20:54:52 +0200</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -174,6 +187,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MqzTxxNH8aZlF1A7GAB0CpUdTLPfPDSoZhIW+DViki/tEhXK6k6S34eewY6RYkRXJCU+3hnDPMtTAtFFJjycBQ==
-length: 18282
+edSignature: 2BjKNrhqTQgkAt+WkRnXnA51y5jJMMWG1VCV83CNF4vjU2v2j+zpqjlcHfuKXGngw0dkGf3RA6DOwelTGxpjAQ==
+length: 20272
 -->

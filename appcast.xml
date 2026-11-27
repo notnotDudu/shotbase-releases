@@ -3,6 +3,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.10.4</title>
+            <pubDate>Fri, 27 Nov 2026 02:44:40 +0200</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.10.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.10.4/Shotbase-update.zip" length="166556172" type="application/octet-stream" sparkle:edSignature="NITNdApBUo8j4MSniNgCJ3lC7SK5tIRuX1nHqCa9c2pRogWAqnzjw4LhLVIet0D8Rj/T6M8xx4QBmWbiAt83Bw=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.10.4/Shotbase28-27.delta" sparkle:deltaFrom="27" length="3418406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Cx5vuGjlJiLAe4Cvsk/PxIUaDvBN2Yoopgk+mOrTQEC0JiCB74HqEOuDeO9t+gO8NeQcpJWqoZgNwNavhTeYAQ=="></enclosure>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.10.4/Shotbase28-26.delta" sparkle:deltaFrom="26" length="4333342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iodNateFIHwYt1vYiN3iPbya24F+gB1w+Ksxf61d4ZsFknA25Xcug4j6NKWIPNDdhlTea4yQalTzwWVUyxWWBQ=="></enclosure>
+                <enclosure url="https://github.com/notnotDudu/shotbase-releases/releases/download/v1.10.4/Shotbase28-23.delta" sparkle:deltaFrom="23" length="7062950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e+fp/hhjJd0FwHirZvQxeGSeIdsgDkQ2z0tmxMfi4gSVdbdSqSNZ0CNn6CYCS++/1gSV6ky03da5NLIeJVS/Aw=="></enclosure>
+            </sparkle:deltas>
+        </item>
+    <item>
             <title>1.10.3</title>
             <pubDate>Thu, 26 Nov 2026 23:19:28 +0200</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -239,6 +252,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: P/rCeBNXjf5l5elkJ5kCxsuubc3Gk21Hjk44KRc29VZmQRsmC+E/IrcRiAubGkiW04iMdl3H9DgG/8a+OZDFDw==
-length: 28120
+edSignature: /NYjmcgoP2jIDdAC1RH5TjTLeCWBTfhwncNH55fnvX8N6gKCyb+kCPufbluebLYlsx6uY/JPRvt8iUVhypSNBQ==
+length: 30083
 -->
